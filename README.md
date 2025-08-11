@@ -12,13 +12,13 @@
       <img alt="Instagram" src" " />
   </a>  
   <a href="https://www.youtube.com/@Suukibo" target="_blank">
-      <img alt="Instagram" src" " />
+      <img alt="Youtube" src" " />
   </a>
   <a href="https://www.tiktok.com/@suukibo_" target="_blank">
-      <img alt="Instagram" src" " />
+      <img alt="Tiktok" src" " />
   </a>
   <a href="Suukibo:imsukichaaan@gmail.com">
-      <img alt="Instagram" src" " />
+      <img alt="Correo" src" " />
   </a>
 </p>
 
