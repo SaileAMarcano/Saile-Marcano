@@ -3,19 +3,19 @@
 
 <p align="center">
   <a href="https://twitch.com/suukibo_" target="_blank"> 
-      <img alt="Twitch" src"https://img.shields.io/badge/Twitch-A327F5?style=for-the-badge&logo=twitch&logoColor=white" />
+      <img alt="Twitch" src="https://img.shields.io/badge/Twitch-A327F5?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   <a href="https://instagram.com/suukibo_/?hl=es" target="_black">
-      <img alt="Instagram" src" " />
+      <img alt="Instagram" src=" " />
   </a>  
   <a href="https://www.youtube.com/@Suukibo" target="_blank">
-      <img alt="Youtube" src" " />
+      <img alt="Youtube" src=" " />
   </a>
   <a href="https://www.tiktok.com/@suukibo_" target="_blank">
-      <img alt="Tiktok" src" " />
+      <img alt="Tiktok" src=" " />
   </a>
   <a href="Suukibo:imsukichaaan@gmail.com">
-      <img alt="Correo" src" " />
+      <img alt="Correo" src=" " />
   </a>
 </p>
 
