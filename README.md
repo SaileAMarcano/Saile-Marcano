@@ -1,5 +1,5 @@
 
-# Bienvenido al mierdero xd
+# Bienvenido Ciudadano Promedio✌🏻
 
 <p align="center">
   <a href="https://twitch.com/suukibo_" target="_blank"> 
