@@ -2,7 +2,7 @@
 ## Titulo 2
 ### Titulo 3
 
-# Bienvenido a mi pagina 
+# Bienvenido al mierdero xd
 
 <p align="center">
   <a href="https:www.twitch.com/suukibo_" target="_blank"> 
