@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://twitch.com/suukibo_" target="_blank"> 
-      <img alt="Twitch" src" " />
+      <img alt="Twitch" src"https://img.shields.io/badge/Twitch-A327F5?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   <a href="https://instagram.com/suukibo_/?hl=es" target="_black">
       <img alt="Instagram" src" " />
