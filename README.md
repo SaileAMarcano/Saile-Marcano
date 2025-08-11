@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https:www.twitch.com/suukibo_" target="_blank"> 
-      <img alt="Twitch" src" " />
+      <img alt="Twitch" src"https://cdn.imgbin.com/23/3/25/imgbin-nba-2k-league-twitch-computer-icons-streaming-media-others-KJvMBTgxLER5J4pZUxGQz7FW5.jpg" />
   </a>
   <a href="https://instagram.com/suukibo_/?hl=es" target="_black">
       <img alt="Instagram" src" " />
