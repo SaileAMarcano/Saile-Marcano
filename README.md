@@ -9,13 +9,13 @@
       <img alt="Instagram" src="https://img.shields.io/badge/instagram-F5279C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>  
   <a href="https://www.youtube.com/@Suukibo" target="_blank">
-      <img alt="Youtube" src=" " />
+      <img alt="Youtube" src="https://img.shields.io/badge/youtube-F52727?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@suukibo_" target="_blank">
-      <img alt="Tiktok" src=" " />
+      <img alt="Tiktok" src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="Suukibo:imsukichaaan@gmail.com">
-      <img alt="Correo" src=" " />
+      <img alt="Correo" src="https://img.shields.io/badge/email-3B80FF?style=for-the-badge&logo=email&logoColor=white" />
   </a>
 </p>
 
